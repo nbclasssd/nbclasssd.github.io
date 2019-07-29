@@ -74,7 +74,7 @@
 			{"file":"/motions/019.mtn","sound":"/sound/theresa_live2d_019.wav","text":155078,"sound_delay":0}
 		]
 	},
-	"physics":"physics.json",
+	"physics":"Terisa.physics.json",
 	"layout":{
 		"center_x":0.0,
 		"center_y":-0.05,
